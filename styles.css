@@ -7,15 +7,15 @@ font-family: monospace;
 }
 h2{color: darkmagenta;
 font-family: monospace;
-    font-size: 18px;
+    font-size: 20px;
     text-align: center;
     
 }
 button{background-color: azure;
-width: 80px;
+width: 110px;
 padding: 5px;
-margin-left: 10px;
-margin-right: 10px;
+margin-left: 40px;
+margin-right: 40px;
 font-family:monospace;
 }
 a{text-decoration: none;}
@@ -26,7 +26,7 @@ font-family: monospace;
 }
 p{text-align: center;
 font-family: sans-serif;
-font-size: 13px;
+font-size: 20px;
     color: black;
     background-color: bisque;
     margin-left: 50px;
@@ -106,7 +106,6 @@ div.gallery img {
   padding: 20 20px;
   float: left;
   width: 45%;}
-
 
 
 
